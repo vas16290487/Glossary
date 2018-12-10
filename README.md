@@ -22,26 +22,26 @@ When building an application it is advised to use the following steps, in order 
 
 ### Maintenance
 
-## Programming Paradigms
+## Procedural Programming
 
-### Procedural Programming
+Procedural programming is a programming paradigm based on the concept of calling functions. 
 
-- Functions
+### Function - 
 
-- Variables
+### Variables
 
-### Object Orientated Programming
+## Object Orientated Programming
 
-- Objects
+### Objects
 
-- Classes
+### Classes
 
-- Methods
+### Methods
 
-- Properties
+### Properties
 
-### Event Driven Programming
+## Event Driven Programming
 
-- Events
+### Events
 
-- Event Handling
+### Event Handling
