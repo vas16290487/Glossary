@@ -4,7 +4,7 @@ Descriptions of various programming concepts
 
 ## Algorithm
 
-A set of instructions that use their environment in order to produce some output (This is implementation, should be design). More specifically, in computing, an algorithm may process some input (such as temperature readings) and produce an output (such as a weather forecast).
+A set of instructions that a computer system may go through to solve a problem. Such an algorithm needs to have a well defined set of inputs and outputs. 
 
 ## Process of Building an Application
 
