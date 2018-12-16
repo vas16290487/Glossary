@@ -38,26 +38,18 @@ Optionally, a developer may choose to support a finished software application fo
 
 ### Procedural Programming
 
-Procedural programming is a programming paradigm based on the concept of calling functions. 
-
-#### Function - 
-
-#### Variables
+Procedural programming is a programming paradigm based on the concept of calling procedures (also known as functions or subroutines). Software that follows the procedural programming paradigm is practically a set of procedures operating on some data (such as hard-coded data, user input, file contents, etc.) 
 
 ### Object Orientated Programming
 
-#### Objects
-
-#### Classes
-
-#### Methods
-
-#### Properties
+In object oriented programming, software applications are composed of objects. Eevery object is an instance of a class, which contain variables (called properties) and procedures (called methods). Most software in production would include methods specifically for reading from and editing properties. 
 
 ### Event Driven Programming
 
-#### Events
+Software applications that use event driven programming rely on events that occur whenever the software is running. The code for such an application assigns some procedures as event listeners/handlers: when the application receives an event, the appropiate procedure would run.
 
-#### Event Handling
+### Comparisons Between Paradigms
 
-### Similarities
+Procedural programming languages make use of variables and functions, in order to allow a developer to effectively create a software application. As such, the procedural programming paradigm may be considered to be a precursor to the object orientated programming paradigm, as the latter builds upon procedural programming paradigms by adding concepts related to data encapsulation.
+
+Further more, event driven programming languages build upon procedural programming paradigms by adding the concept of events and how they are handled. 
