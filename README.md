@@ -42,11 +42,11 @@ Procedural programming is a programming paradigm based on the concept of calling
 
 ### Object Orientated Programming
 
-In object oriented programming, software applications are composed of objects. Eevery object is an instance of a class, which contain variables (called properties) and procedures (called methods). Most software in production would include methods specifically for reading from and editing properties. 
+In object oriented programming, software applications are composed of objects. Every object is an instance of a class, which contains variables (called properties) and procedures (called methods). Most software in production would include methods specifically for reading from and editing properties. 
 
 ### Event Driven Programming
 
-Software applications that use event driven programming rely on events that occur whenever the software is running. The code for such an application assigns some procedures as event listeners/handlers: when the application receives an event, the appropiate procedure would run.
+Software applications that use event driven programming rely on events that occur whenever the software is running. The code for such an application assigns some procedures as event listeners/handlers: when the application receives an event, the appropriate procedure would run.
 
 ### Comparisons Between Paradigms
 
