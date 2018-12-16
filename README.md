@@ -6,6 +6,25 @@ Descriptions of various programming concepts
 
 A set of instructions that a computer system may go through to solve a problem. Such an algorithm needs to have a well-defined set of inputs and outputs. 
 
+## Debugging
+
+### The Debugging Process
+
+Over the lifetime of a software application various errors may be discovered during production and development; the process of identifying, locating and subsequently dealing with these errors (commonly referred to as bugs) is knows as debugging.
+
+### Debugging Tools and Techniques
+
+Debugging can be quite a tedious task as errors can be quite obscure and difficult to resolve, especially if the problem lies within a system that the software developer has little to no control over. Here are some tools that may be present in an IDE in order to aid with the discovery, isolation and removal of an error:
+
+- Breakpoints: these are lines in source code that have been marked as pause points. Most IDEs have a debugger application that can pause execution of an application; during this pause, a software engineer may analyse the current state of the application and check if it is running as expected. 
+
+- Console: this is a command line interface with two purposes: specific output from an application and referencing parts of the application while it is paused. During development and debugging, a developer may choose to add small messages that are sent to the console during particular moments of execution; for example, an application might output the value of a variable if a specific condition has proven to be true. Further more, some IDEs allow a developer to use the console while the application is stopped; this could be used to check the value of a variable, or to execute and analyse the behaviour of a function.
+
+- Stepping through code: there are a few small tools that can allow a developer to navigate execution:
+  - Step into: the application goes through one logical statement, and pause the execution after that statement
+  - Step out: the application continues to run code until the current procedure returns, and pause execution after it returned
+  - Step over: acts the same as step into, except the application won't pause within a procedure; if a procedure has been reached, execution will stop on the next statement
+
 ## Process of Building an Application
 
 When building an application it is advised to use the following steps, in order to create a product that may effectively fulfil the requirements of a customer:
